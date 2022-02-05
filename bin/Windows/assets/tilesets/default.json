@@ -1,0 +1,12 @@
+{
+	"tileSize": 16,
+	"numTypes": 4,
+	"numVariations": 2,
+	"textures": [
+		"assets/tilesets/default-0.png",
+		"assets/tilesets/default-1.png",
+		"assets/tilesets/default-2.png",
+		"assets/tilesets/default-3.png",
+		"assets/tilesets/default-4.png"
+	]	
+}
