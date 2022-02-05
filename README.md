@@ -2,7 +2,7 @@
 
 # Fast Infinite Tilemap
 
-A high performance tilemap engine written in C++17, SFML, and OpenGL. Renders a dynamic infinite world while maintaining thousands of FPS.
+A high performance tilemap engine written in C++17, SFML, and OpenGL. Renders a dynamic infinite world while maintaining high FPS.
 
 ## Features
 
