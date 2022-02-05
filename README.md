@@ -1,4 +1,4 @@
-![0](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/main/images/0.PNG)
+![0](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/master/images/0.PNG)
 
 # Fast Infinite Tilemap
 
@@ -23,10 +23,10 @@ A high performance tilemap engine written in C++17, SFML, and OpenGL. Renders a 
 
 ## Screenshots
 
-![1](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/main/images/1.PNG)
-![2](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/main/images/2.PNG)
-![3](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/main/images/3.PNG)
-![4](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/main/images/4.PNG)
+![1](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/master/images/1.PNG)
+![2](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/master/images/2.PNG)
+![3](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/master/images/3.PNG)
+![4](https://github.com/medinski94/Fast-Infinite-Tilemap/blob/master/images/4.PNG)
 
 ## References
 
