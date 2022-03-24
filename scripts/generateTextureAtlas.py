@@ -27,8 +27,10 @@ def parseArguments():
 
 def loadTextures(sourceDir):
     textures = []
-    for img in glob.glob(sourceDir + '/' + '*.jpg', recursive = False):
-        textures.append(cv.imread(img))
+    extensions = ['png', 'jpg'] 
+    for extension in extensions:
+        for img in glob.glob(sourceDir + '/' + '*.' + extension, recursive = False):
+            textures.append(cv.imread(img))
 
     return textures;
 
